@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fall2022 Conditionals", "Fall2022 Conditionals\Fall2022 Conditionals.csproj", "{408F4323-242D-4A6F-B67F-0CFE4BBAB58F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{408F4323-242D-4A6F-B67F-0CFE4BBAB58F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{408F4323-242D-4A6F-B67F-0CFE4BBAB58F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{408F4323-242D-4A6F-B67F-0CFE4BBAB58F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{408F4323-242D-4A6F-B67F-0CFE4BBAB58F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D049902B-3F6A-4BDE-910A-3873CA172D8B}
+	EndGlobalSection
+EndGlobal
